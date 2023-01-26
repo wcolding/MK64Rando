@@ -1,0 +1,13 @@
+{
+  "name": "Mario Kart 64 Randomizer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "mk64rando.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Will Colding",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "core": "*"
+}
